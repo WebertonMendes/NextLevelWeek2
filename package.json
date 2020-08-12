@@ -1,0 +1,25 @@
+{
+  "name": "NextLevelWeek2",
+  "version": "1.0.0",
+  "description": "Next Level Week 2 - Rocketseat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebertonMendes/NextLevelWeek2.git"
+  },
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "bugs": {
+    "url": "https://github.com/WebertonMendes/NextLevelWeek2/issues"
+  },
+  "homepage": "https://github.com/WebertonMendes/NextLevelWeek2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "split": "^1.0.1",
+    "sqlite-async": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
